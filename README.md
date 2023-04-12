@@ -9,11 +9,11 @@
 
 ###
 
-<img align="left" height="150" src="https://gifdb.com/images/high/girls-finger-dance-anime-loop-scwst6zljvxmbyud.gif"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/girls-finger-dance-anime-loop-scwst6zljvxmbyud.gif"  />
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="https://www.facebook.com/vilet.sz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo"  />
   </a>
