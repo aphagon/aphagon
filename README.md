@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <h4 align="left">🛠 &nbsp;Tech Stack</h4>
+  <h3 align="left">🛠 &nbsp;Tech Stack</h3>
 </div>
 
 ###
@@ -49,7 +49,7 @@
 ###
 
 <div align="left">
-  <h4 align="left">🤝🏻 &nbsp;Connect with Me</h4>
+  <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3>
 </div>
 
 ###
