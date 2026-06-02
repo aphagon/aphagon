@@ -17,20 +17,20 @@
 
 ### 👋 About Me
 
-```ts
-const aphagon = {
-  role: "Full-Stack & Game Developer",
-  company: "Kachan",
-  location: "Thailand 🇹🇭 (remote-friendly)",
-  focus: ["Web Apps", "Backend Systems", "Game Development"],
-  available: ["Full-time", "Freelance", "Contract"],
-  motto: "Ship clean code. Build things that last.",
-};
-```
+```csharp
+public class Aphagon : Developer
+{
+    public string Based       => "Thailand 🇹🇭";
+    public string Company     => "Kachan — web apps & games";
+    public string[] Doing     => ["Full-stack Development", "Indie Game Dev"];
+    public string Loves       => "Turning blank pages into shippable things";
+    public string[] Available => ["Freelance", "Contract", "Remote Full-time"];
 
-I build across the whole stack — from polished React/Vue/Next.js frontends to
-Go/Python/C# backends — and ship games with Unity & Godot on the side.
-Equally comfortable architecting an API or pushing pixels in a game loop.
+    public override string ToString() =>
+        "I build web apps by day, game prototypes by night.\n" +
+        "If it starts as a weird idea and ends as something real — I'm in.";
+}
+```
 
 ---
 
