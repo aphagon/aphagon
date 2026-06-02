@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/vilet.sz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://twitter.com/Aphagon1992"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="mailto:aphagon@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://coderblitz.com"><img src="https://img.shields.io/badge/CoderBlitz-0B0C10?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://kachan.dev"><img src="https://img.shields.io/badge/Kachan-0B0C10?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=aphagon&label=Profile%20views&color=2F81F7&style=flat-square" />
 
@@ -20,7 +20,7 @@
 ```ts
 const aphagon = {
   role: "Full-Stack & Game Developer",
-  company: "CoderBlitz",
+  company: "Kachan",
   location: "Thailand 🇹🇭 (remote-friendly)",
   focus: ["Web Apps", "Backend Systems", "Game Development"],
   available: ["Full-time", "Freelance", "Contract"],
